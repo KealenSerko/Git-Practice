@@ -1,3 +1,4 @@
-# HELOOOO
+# Git-Practice
 
-From dream's branch
+Kealen Kealen Kealen Kealen 
+merge conflict solved :D
