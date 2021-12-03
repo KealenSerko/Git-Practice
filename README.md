@@ -1,3 +1,5 @@
 # Git-Practice
 
-#Hello from sophie
+# Hello from sophie
+
+Kealen is awesome.
