@@ -1,3 +1,3 @@
 # Git-Practice
 
-Kealen is awesome.
+Kealen is not awesome.
