@@ -1,3 +1,5 @@
-# Git-Practice
+# Git-Practice one
 
-Kealen Pillay blah blah blah
+# Do be Sam's branch tho
+
+Simulating merge conflict
