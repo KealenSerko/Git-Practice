@@ -7,5 +7,9 @@ Simulating merge conflict
 =======
 # Git-Practice
 
+<<<<<<< HEAD
 Kealen Kealen Kealen Kealen 
+>>>>>>> main
+=======
+Kealen Pillay
 >>>>>>> main
